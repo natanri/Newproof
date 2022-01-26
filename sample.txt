@@ -1,1 +1,3 @@
 Hello this is my first time handling git
+
+hello and goodbye
